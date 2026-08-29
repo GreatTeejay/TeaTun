@@ -1,0 +1,7 @@
+# build artifacts (shipped via GitHub Releases, not committed)
+/dist/
+*.exe
+
+# editor / OS
+.DS_Store
+*.swp
